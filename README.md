@@ -27,7 +27,7 @@
 <li>15K x3</li>
 <li>21K x3</li>
 <li>30K x1</li>
-<li>42K 2025 Coming Soon</li>
+<li>42K x1</li>
 
 <h3>Books read</h3>
 <li>Rich Dad Poor Dad</li>
@@ -35,3 +35,4 @@
 
 <h3>Reading</h3>
 <li>Flutter Engineering</li>
+<li>The Pragmatic Programmer</li>
