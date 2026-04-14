@@ -26,6 +26,7 @@
 <li>10K x8</li>
 <li>15K x3</li>
 <li>21K x3</li>
+<li>21K Patagonia Run</li>
 <li>30K x1</li>
 <li>42K x1</li>
 
